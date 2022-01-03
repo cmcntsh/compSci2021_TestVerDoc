@@ -17,3 +17,8 @@ This is part of a set of pages on introduction to computer science. https://gith
 * Unit testing: https://www.softwaretestinghelp.com/unit-testing/#more-1133
 
 ## Optional Material
+
+* Testing in context of agile development.
+  * https://www.scaledagileframework.com/enterprise-solution-delivery/
+  * https://www.scaledagileframework.com/model-based-systems-engineering/
+  * https://www.scaledagileframework.com/built-In-quality/
